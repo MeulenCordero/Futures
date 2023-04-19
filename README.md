@@ -1,5 +1,5 @@
 
-LINK del sitio funcional hosteado: http://w300219.ferozo.com/index.html
+LINK del sitio funcional hosteado: http://w300219.ferozo.com 
 
 FUTURES
 
